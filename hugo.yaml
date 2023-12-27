@@ -18,3 +18,4 @@ outputs:
 
 params:
   logoWidth: 40px
+  realfavicongenerator: true
