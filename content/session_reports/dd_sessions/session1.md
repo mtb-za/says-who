@@ -1,7 +1,6 @@
 ---
 date: 2023-12-26T23:16:01-05:00
 title: 'Session 1'
-draft: true
 categories: ['session']
 tags: ['dracula_dossier', 'ttrpg', 'session_report']
 ---
