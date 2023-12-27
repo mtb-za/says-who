@@ -3,6 +3,7 @@ title: 'A Lightweight System for the Dracula Dossier'
 slug: 'dd_lightweight_system'
 date: 2023-12-27T02:24:33-05:00
 categories: ['thoughts']
+tags: ['ttrpg', 'system', 'fkr?']
 ---
 
 Just a quick note on the mechanical bits for my Dracula Dossier campaign. It is written for Night's Black Agents, which is a Gumshoe game. I tend to dislike some aspects of Gumshoe though, in particular the spending of general abilities, and only rolling a single d6 (which just feels dull compared to rolling either more dice or fancier dice). So, here is the basics of the system we are using:
