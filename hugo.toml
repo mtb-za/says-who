@@ -1,8 +1,0 @@
-baseURL = 'https://says-who.neocities.org/'
-languageCode = 'en-us'
-title = 'mtb'
-theme = 'zen'
-[permalinks]
-  [permalinks.page]
-    dd_sessions = '/dd_sessions/:year/:month/:slug/'
-

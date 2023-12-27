@@ -1,0 +1,20 @@
+baseURL: https://mtb-za.github.io/
+languageCode: en-us
+title: "Says Who"
+theme: zen
+permalinks:
+  page:
+    thoughts: /thoughts/:year/:month:/:slug/
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML", "SearchIndex"]
+
+params:
+  logoWidth: 40px
