@@ -1,5 +1,6 @@
 ---
-title: 'Session 2'
+title: 'DD Session 2'
+slug: 'session2'
 date: 2023-12-26T23:42:22-05:00
 categories: ['session']
 tags: ['dracula_dossier', 'ttrpg', 'session_report']
@@ -24,7 +25,7 @@ Padraig decided to act before anything happened, and walked up to Olivia and sta
 
 That night, they sneaked onto the late ferry to Limnos, Padraig using his acting experience to help everyone blend in a bit better. From there, they were able to get to to Thessaloniki and then catch a flight back to Athens. In Athens, they helped Olivia make contact with the US Embassy, who were able to get her onto a flight. They kept some of her notes and similar, since she was definitely willing to work on something less likely to get her killed and hand this over to someone else.
 
-The last thing that the agents decided to do with her notes was to get in touch with the contact that she was due to meet next, here in Athens: Aristides Daudolos, Greek mafioso and smuggler. Padraig met him under the guise of a journalist, with Coop as a bodyguard. He told them about a Lt-Gen Malcolm Lennart, in Naples, who had proof of unauthorised NATO strikes in the Balkans. He offered to get them into Italy unseen, in exchange for revealing this truth. He also offered to pay for a copy of the data that Lennart has (hoping that it contains something that will give him a competitive advantage given that Lennart is attached to the logistics side of the combined NATO navies in the eastern Med). The agents took advantage of this and also managed to wrangle a sniper rifle for Coop.
+The last thing that the agents decided to do with her notes was to get in touch with the contact that she was due to meet next, here in Athens: Aristides Daudolos, Greek mafioso and smuggler. Padraig met him under the guise of a journalist, with Coop as a bodyguard and was told about a Lt-Gen Malcolm Lennart, in Naples, who had proof of unauthorised NATO strikes in the Balkans. Arastides offered to get them into Italy unseen, in exchange for revealing this truth. He also offered to pay for a copy of the data that Lennart has (hoping that it contains something that will give him a competitive advantage given that Lennart is attached to the logistics side of the combined NATO navies in the eastern Med). The agents took advantage of this and also managed to wrangle a sniper rifle for Coop.
 
 ## GM Thoughts and Notes
 
@@ -35,5 +36,5 @@ Once they saved Olivia from the black bag team and got off Agios Efstratios, I d
 ### NPCs of Note
 
 * Olivia Yu - US journalist, working on a story in Balkans - some sort of NATO attacks and noise about vampires from locals
-* Aristides Daudolo - Greek Mafioso and smuggler - contact of Olivia's
+* Aristides Daudolos - Greek Mafioso and smuggler - contact of Olivia's
 * Lt-Gen Malcolm Lennart - Canadian Air Force officer stationed at Joint Force Command Naples
