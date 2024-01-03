@@ -30,7 +30,7 @@ Joe and Ursula both spend the first round drawing weapons. Joe decides to evade 
 |  |   | H3 |  |    |  |  |
 +--+---+----+--+----+--+--+
 ```
-The heavy with the pistol (H2) needs to roll more than 8 to hit Ursula. The following DMs will affect this:
+The heavy with the pistol (H2) needs to roll more than 8 to hit Joe. The following DMs will affect this:
 
 * Range is long (3 range bands apart): -6
 * Target has Mesh armour: -1
