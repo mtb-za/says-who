@@ -15,4 +15,4 @@ The main departure is in the general abilities: we only award 15 or so points, c
 
 That is pretty much it. Keep the normal Gumshoe advice about giving core clues freely, possibly using rolls to award extra insights if players are not doing stuff that would get them. Combat uses Mongoose Traveller-style effect: whatever you roll over the target you apply as damage. Melee stuff is an opposed roll, loser taking the difference. Ranged combat uses mostly fictional positioning: if you are hiding behind something, you get harder to hit, that sort of 'common sense'.
 
-The rest is done via the conversation and covnention. After a few sessions, it seems to be working fine. I will have a look at what to do for advancement, but it has not come up yet.
+The rest is done via the conversation and convention. After a few sessions, it seems to be working fine. I will have a look at what to do for advancement, but it has not come up yet.

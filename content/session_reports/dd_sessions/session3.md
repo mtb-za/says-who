@@ -15,7 +15,7 @@ The Dramatis Personae:
 
 ## Recap
 
-13 - 16 April 2011
+13 - 17 April 2011
 
 The agents had a few days before Lennart was due to leave. Aristides had told them that he had had a person on the base (smugglers try and keep track of naval movements) check his office, and Lennart was breaking security procedures and taking his laptop home. The agents decided to check out what his routine was and what sort of security was in place at his house. They found a spot outside the base and followed him home. His routine seemed pretty set over the two days that they watched and trailed him for.
 
