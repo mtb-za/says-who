@@ -14,7 +14,7 @@ outputFormats:
     notAlternative: true
 
 outputs:
-  home: ["HTML", "SearchIndex"]
+  home: ["HTML", "SearchIndex", "RSS"]
 
 params:
   logoWidth: 40px
