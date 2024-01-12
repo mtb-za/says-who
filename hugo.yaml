@@ -19,3 +19,6 @@ outputs:
 params:
   logoWidth: 40px
   realfavicongenerator: true
+  mainSections:
+  - thoughts
+  - session_reports
