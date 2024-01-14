@@ -8,13 +8,14 @@ tags: ['traveller', 'ttrpg', 'guide']
 
 Classic Traveller has a moderately arcane combat system to modern eyes. For the most part though, it is not too bad. This is an example of how it can be interpreted. If you want to do things differently, there is no reason to assume that this is the only way it should (or can be interpreted to) work. In general though, I think that the following example is mostly sensible and will not cause too many feathers to be ruffled. (This is another thing that is being posted to here as a more permanent home than various discord messages and a file on my PC, but which was written a while back.)
 
-# Example of Combat
+## Example of Combat
 
 Joe H (777777) and Ursula LG (7A7777) are moving through a fairly crowded starport when they run into a trio of heavies sent by their current rival, Isaac. The heavies all have a UPP of 777777. One has a club and jack armour, one has a cutlass and jack + reflec armour, and the last has an automatic pistol and no armour. Joe and Ursula both have blades. In addition, Joe has a submachine gun and mesh armour, while Ursula has a laser carbine and jack armour. Both have skill 1 in their primary weapons, although Ursula has blade-2.
 
 Given that they are starting in a starport, both sides spot each other about 50 metres apart, (medium range, 2 bands away). There is no surprise round, since the heavies want to send a message. Joe and Ursula are having nothing of this and a fight breaks out. There is no initiative, so we will have the players going first.
 
 We will show relative ranges such:
+
 ```+--+--+--------+--+--+----+--+
 |  |  |   Joe  |  | H1 |  |  |
 |  |  | Ursula |  | H2 |  |  |
@@ -22,14 +23,17 @@ We will show relative ranges such:
 +--+--+--------+--+--+----+--+
 ```
 
-## Round 1
+### Round 1
+
 Joe and Ursula both spend the first round drawing weapons. Joe decides to evade instead of moving, trying to find somewhere to hide. Ursula opens the range instead, trying to get some distance to use her laser carbine more effectively. The heavies already have their weapons out, and the melee guys charge at Joe, closing two range bands. This uses 1 endurance, so they can run or strike combat blows 6 more times (having started with 7). The heavy with the gun opens fire on Joe, but stays still. Our ranges now look like this:
+
 ```+--+---+----+--+----+--+--+
 |  | U |  J |  | H2 |  |  |
 |  |   | H1 |  |    |  |  |
 |  |   | H3 |  |    |  |  |
 +--+---+----+--+----+--+--+
 ```
+
 The heavy with the pistol (H2) needs to roll more than 8 to hit Joe. The following DMs will affect this:
 
 * Range is long (3 range bands apart): -6
@@ -39,13 +43,16 @@ The heavy with the pistol (H2) needs to roll more than 8 to hit Joe. The followi
 
 This means that H2 is rolling 2d6-7, and can not roll more than 8 anyway. Their shots go wide.
 
-## Round 2
+### Round 2
+
 Joe sees the melee-armed heavies charging in, and opens up with his submachine gun, while trying to open the range. Ursula takes aim at the gun-toting heavy, staying still for this round. The pistol-wielder attempts to close the range, still firing at Ursula. The melee heavies, still out of range for their weapons, keep moving in, still running, using another endurance (5 left). Our ranges look like this:
+
 ```+--+---------+--+----+--+--+--+
 |  |    U    |  | H2 |  |  |  |
 |  | J-H2-H3 |  |    |  |  |  |
 +--+---------+--+----+--+--+--+
 ```
+
 Joe and the heavies targeting him are at short range (within range of melee attacks unless something changes), while everyone else is at medium range.
 
 Joe elects to fire a burst in full auto at the club-wielding heavy, with the following modifiers:
@@ -82,7 +89,8 @@ Since everything happens simultaneously, you could also still resolve the attack
 
 So our heavy rolls 2d6+3. A roll of 4, 4 gives us a hit, so we can roll the 3D damage: 1, 2, 3. Randomly, this hits endurance: 771777. They can make 4 more combat swing (started at 7, but ran twice and now a combat swing). Joe is reeling, a bit.
 
-## Round 3
+### Round 3
+
 Joe decides to stay at short range, not moving. Ursula will close the range to short. The heavy is still happy at short range as well. This means that everyone is at close range.
 
 Joe has a similar roll as last time with his submachine gun:
@@ -105,5 +113,6 @@ Ursula, seeing that the heavy has reflec armour in addition to the cloth, and kn
 
 Ursula needs to roll 8+ on 2d6-1. She rolls 4, 5, getting exactly 8 and making the hit. Blades do 2D damage, so Ursula needs to keep getting lucky. She does, getting 5, 5. The heavy (with current physical stats of 421) goes down to the blade, being unable to assign those without having two stats to zero, electing to drop to 400. Ursula could make another 6 combat swings, still.
 
-## End of the Fight
-The combat is now over, with one heavy badly wounded and two knocked unconscious. Joe is also knocked out. Ursula drags Joe back to their ship. Joe wakes up after ten minutes, with stats set from 340 to 553, halfway to full (I round down). The gun-wielder does the same, from 027 to 347 with the club heavy going from 074 to 375. The badly wounded cutlass-wielding heavy needs to get to a the medical bay where they will wake up with stats having gone from 400 to 411. They will be there for a while before they recover.
+### End of the Fight
+
+The combat is now over, with one heavy badly wounded and two knocked unconscious. Joe is also knocked out. Ursula drags Joe back to their ship. Joe wakes up after ten minutes, with stats set from 340 to 553, halfway to full (I round down). The gun-wielder does the same, from 027 to 347 with the club heavy going from 074 to 375. The badly wounded cutlass-wielding heavy needs to get to a medical bay where they will wake up with stats having gone from 400 to 411. They will be there for a while before they recover.
