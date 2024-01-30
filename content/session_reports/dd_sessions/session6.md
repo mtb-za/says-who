@@ -15,7 +15,7 @@ The Dramatis Personae:
 
 ## Recap
 
-20 - 22 April 2011
+23 - 24 April 2011
 
 Following a successful visit to Whitby, Padraig, Yannis and Petros headed back to London to join Coop. Their priority was to get the blood sample checked out before that went off. Luckily, Padraig knew a doctor who would not ask too many questions, even for some weird tests that the agents came up with. They wanted to know about the following:
 
