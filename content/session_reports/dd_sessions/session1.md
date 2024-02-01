@@ -1,7 +1,7 @@
 ---
 date: 2023-12-26T23:16:01-05:00
 publishdate: 2023-11-15
-title: 'DD Session 1'
+title: 'Dracula Dossier Session 1'
 categories: ['session']
 tags: ['dracula_dossier', 'ttrpg', 'session_report']
 ---

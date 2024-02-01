@@ -1,5 +1,5 @@
 ---
-title: 'DD Session 2'
+title: 'Dracula Dossier Session 2'
 slug: 'session2'
 date: 2023-12-26T23:42:22-05:00
 categories: ['session']
