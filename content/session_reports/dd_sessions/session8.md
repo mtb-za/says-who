@@ -15,7 +15,7 @@ Dramatis Personae:
 
 ## Recap
 
-24-25 April 2011
+25-28 April 2011
 
 The agents settled in for a bit of surveillance, given that they had no major time pressures. Using the van, they kept an eye on the Institute. They took photos of people coming in an out, and managed to get a rough estimate of the numbers in the various shifts. They counted three shifts over two and a half days of watching: about 50 people come in during the day, with 15 each on two night shifts. Most of these people are scientists and administrations and similar tasks, but to the well-trained agents a few guards stood out: about 15 during the day and 8 on each night shift.
 
@@ -29,9 +29,11 @@ The other thing that was set up and done was Padraig dropping some names and get
 
 ## GM Notes and Thoughts
 
-This session ended up being more preparation, but I think that things are going to kick off next session. Some of the plans made are definitely on the silly side (can we train a bat to fly a grappling hook to Drawes' balcony), but they did a good job of getting enough details to pull off a proper heist in the next session. The consensus has been to go for the flat first, in hopes of it being a softer target, probably by replacing staff of one of the companies (possibly in response to creating an emergency like broken windows needing the maintenance company to come in).
+This session ended up being more preparation, but I think that things are going to kick off next session with at least one operation happening. Some ideas suggested are definitely on the silly side (can we train a bat to fly a grappling hook to Drawes' balcony), but they did a good job of getting enough details to pull off a proper heist in the next session. The consensus has been to go for the flat first, in hopes of it being a softer target, probably by replacing staff of one of the approved companies (possibly in response to creating an emergency like broken windows needing the maintenance company to come in).
 
 The thinking is that if they go straight for the Institute then it is more likely that the apartment is going to be locked down in response, or Dr Drawes will disappear along with anything useful that he knows. There is also still not really a clear idea of what he might have at his apartment.
+
+They are also still planning on making a trip up to Cambridge to check out Isabel's flat before her brother starts dealing with her effects, now that the coroner's report is probably filed. That means that her will is probably being executed and her brother will likely be dealing with everything. This is something that they will need to deal with relatively soon or let go.
 
 ## Notable NPCs
 
