@@ -25,10 +25,23 @@ They managed to do this, and got assigned to a flat on the same floor as Drawes 
 
 Eventually, with some clever coordination, Padraig managed to hop a couple of balconies and get a camera and microphone on the window to watch for a couple of days.
 
+Round about this time, the agents got a call from Cassandra Irving, who was working at the Romania desk at GCHQ. She was being followed and was sounding very scared. Coop and Petros, who had been waiting outside hared off in that direction to check it out.
+
+They talked her through a few streets, getting near to her without anything happening. When getting closer, they noticed a police car redirecting traffic. Ducking into an alleyway, Coop quickly set up an ambush. As Cassandra came around the corner, Coop shot one of the two people who followed her into the alleyway. At the same time, Petros pulled her into the van and started it up, prepared to get involved. The first trailer, not shot at by Coop took cover in a nearby doorway and shot back blindly. Petros, seeing this revved the engine and blocked the entrance, dodging the shots. Coop fired off a few more shots to keep everyone's heads down and got into the van as well, making sure to finish off the wounded opponent who had been shot first. The two peeled out, attempting to hit the last person who had been following Cassandra.
+
+It took them some time, but they were able to lose their pursuers and get back to a safe house to be greeted by Yannis and Padraig, who had otherwise had a pretty quiet day, finishing off their cleaning.
+
+Cassandra told them that she had not heard from her contact, Alvah, for a while now. She had also seen the same couple of strangers around for the last couple of days, including when leaving the office at an odd time for lunch. The agents calmed her down and settled her one of their secondary bolt holes.
+
 ## GM Notes and Thoughts
 
+The person in Drawes' office made the players a lot more cautious than I expected. In any case, the infiltration went off smoothly, and they at least have some observation in place, and can probably get in again if they need to.
 
+The call from Cassandra was a somewhat random event, in that I had it as happening at some point, but the exact date was randomised away from the table. Luckily for the players their combat-focused person, Coop, was not stuck inside cleaning things. I used the same priority extended task approach that I had used before. Again, it worked pretty well.
+
+The shootout and the short chase is going to raise their heat within London. So far though, they have not been properly identified, so the descriptions are still a little vague. In any case, the campaign is starting to ramp up a little now, so hopefully we can keep things going. I am aware that it is the Dracula Dossier, and there have not been many Draculas yet.
 
 ## Notable NPCs
 
 * Dr John L Drawes - Director of an NHS Haematology and Malaria Research Institute in the Plaistow area. Lives in a fancy building.
+* Cassandra Irving - 
