@@ -1,7 +1,7 @@
 ---
 title: 'Dracula Dossier Session 9'
 slug: 'session9'
-date: 2024-03-01
+date: 2024-04-02
 categories: ['session']
 tags: ['dracula_dossier', 'ttrpg', 'session_report']
 ---
@@ -44,4 +44,4 @@ The shootout and the short chase is going to raise their heat within London. So 
 ## Notable NPCs
 
 * Dr John L Drawes - Director of an NHS Haematology and Malaria Research Institute in the Plaistow area. Lives in a fancy building.
-* Cassandra Irving - 
+* Cassandra Irving - GCHQ analyst on the Romania desk. Originally gave the agents the Dossier on behalf of a contact of hers.
