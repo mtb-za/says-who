@@ -1,7 +1,7 @@
 ---
 title: 'Troubleshooters - London Calling'
-slug: 'trobleshooters1'
-date: 2024-04-04
+slug: 'troubleshooters1'
+date: 2024-04-07
 categories: ['session']
 tags: ['one_shot', 'ttrpg', 'session_report', 'troubleshooters']
 ---
