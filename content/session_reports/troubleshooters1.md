@@ -7,7 +7,7 @@ tags: ['one_shot', 'ttrpg', 'session_report', 'troubleshooters']
 ---
 
 
-I recently ran a one-shot of The Troubleshooters - an alternative 1960s with campy evil shadow organisations and artwork inspired by the Franco-Belgian bédé. I have run a few one-shots of this in the past, and have generally had fun with them. This time, I picked the officially released _Fabulous!_ quickplay scenario. I am not going to split out the experience of refereeing this as much as I do in the Dracula Dossier session reports. This will also act as something of a review of the quickplay scenario, which I feel has some issues to be aware of. Spoilers ahead, should you be interested in playing this for yourself.
+I recently ran a one-shot of The Troubleshooters - an alternative 1960s with campy evil shadow organisations and artwork inspired by the Franco-Belgian bédé. I have run a few one-shots of this in the past, and have generally had fun with them. This time, I picked the officially released _Fabulous!_ quick-play scenario, available [here](https://helmgast.se/the-troubleshooters/the-troubleshooters-archive), along with some others. I am not going to split out the experience of refereeing this as much as I do in the Dracula Dossier session reports. This will also act as something of a review of the quickplay scenario, which I feel has some issues to be aware of. Spoilers ahead, should you be interested in playing this for yourself.
 
 ## From Here Be Spoilers
 
