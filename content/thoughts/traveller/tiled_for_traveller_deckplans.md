@@ -33,11 +33,11 @@ In addition to the premade geomorphs, there are a large number of separate compo
 
 A reasonably sized cargo vessel, probably a 200 to 300 ton Far Trader in Traveller terms, although I have not done the actual maths for this one (yet?). It has one double-height cargo bay and a collapsible fuel bladder, that can be used either for fuel or for additional cargo storage.
 
-![](deckplans/cargo_vessel1.png)
+![](/img/traveller/deckplans/cargo_vessel1.png)
 
 The joy of geomorphs is that variants can easily be made just by replacing some of the geomorphs. By replacing the cargo bay, for example, we can easily make a communications and survey vessel. This one is probably too small for sustained operations, so maybe it is more of an emergency command vessel or similar:
 
-![](deckplans/recce1.png)
+![](/img/traveller/deckplans/recce1.png)
 
 ## Conclusion
 
