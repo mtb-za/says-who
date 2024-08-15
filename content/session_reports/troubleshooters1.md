@@ -13,7 +13,7 @@ I recently ran a one-shot of The Troubleshooters - an alternative 1960s with cam
 
 The players (D, J, and C) used one of the pregens each: Elektra, Yurika, and Paul, respectively. The pregens are pretty flavourful, so they got into things pretty quickly. The basic set-up was that Yurika had gotten contacted by a friend, Diana Steele, who is based in London. She had stumbled on something to do with the Fabulous Fantastics, Britain's latest and greatest internationally renowned band. This was going to be a big scoop, but she was worried that she was in danger. If Yurika could come to London for a couple days, then it would certainly set Diana's mind at ease.
 
-![A quartet of people very similar to the Scooby Gang playing music](/images/session_reports/fabulous_fantastics.png "Not at all familiar")
+![A quartet of people very similar to the Scooby Gang playing music](/img/session_reports/fabulous_fantastics.png "Not at all familiar")
 
 There was a race coming up, so Elektra was about, and Paul happened to be around as well visiting a friend. They all agreed to meet up and see what they could do with Yurika to help her friend. The meeting was the next afternoon, at Happy Jack's.
 
