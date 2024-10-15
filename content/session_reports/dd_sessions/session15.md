@@ -27,9 +27,13 @@ They then cleaned up the flat a little to minimise the damage, before escaping w
 
 This whole event provided an impetus for them to go after the Institute, so Coop immediately headed over there to watch what was happening and if they had an opportunity to do anything. There was a fair amount of flutter after an hour or two, suggesting that the break in at Drawes' flat had been discovered. Still, the institute was big enough that it seemed likely that they had at least a couple of days of work to clean it out properly.
 
+10 May 2011
+
 There was then a short timeskip to the next day, when the agents had their scheduled phone interview with Zarina Talbot. Padraig took the lead, asking fairly standard questions, before dropping a few key phrases: Carfax, Dracula, Demeter. This got her to cut the interview short, but with a promise to get in touch shortly to 'discuss more details'.
 
 ## GM Notes and Thoughts
+
+It was definitely time to stop everything going the way of the PCs, so that was the meta reason for having a third party raiding their target. This definitely got the reaction that I was looking for! They are now speculating about who this third player might be, which is gratifying.
 
 The time skip was because going into the institute halfway through the session was not something that I wanted to do. If nothing else, I needed to prep it, but there was also no way that it would be done before the session ended. This was something that had been arranged to happen, but it would not take long with the approach that my players had in mind, so I decided to play it out now.
 
