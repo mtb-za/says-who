@@ -121,12 +121,12 @@ However the Travellers find out, they now need to decide what to do about things
 - Talk the local security forces into raiding the warehouse (it is possible that Annette or Haoyung have some contacts)
 - Sneak in and get Chang (and Britt?) out overnight
 - Cause the warehouse to be evacuated (stop the life support, start a fire, call in a bomb threat) and use the chaos to get Chang out
-- Blast or cut through from a neighbouring building
+- Blast or cut through from a neighbouring building (those on either side are similar warehouse-like buildings, but since they are legit, without as many guards, especially at night)
 
-![A hand-drawn warehouse plan.](/img/traveller/chang_pickup/universal_exports_warehouse.jpg)
-The warehouse has a basement level accessed by either stairs or a goods elevator. A number of containers are placed around the warehouse, waiting for movement. Access can be effected to the 'outdoor' yard through a pedestrian gate, while the warehouse has large front or back doors (both with smaller pedestrian entryways). The rear of the building looks onto a monorail platform, where goods can be loaded or unloaded directly for transit to or from the downport. An elevated walkway runs along the outside of the building, overlooking the yard and front. This is accessed by a ladder from inside. A small office and break room is located near the elevator. The office and attached record room have details of all the legitimate traffic handled by UE over the last decade or so. A competitor may well pay for this information.
+![A line drawing of a warehouse plan.](/img/traveller/chang_pickup/universal_exports_warehouse.png)
+The warehouse has a basement level accessed by either stairs or a goods elevator. A number of containers are placed around the warehouse, waiting for movement. Access can be effected to the 'outdoor' yard through a pedestrian gate, while the warehouse has large front or back doors (both with smaller pedestrian entryways). The rear of the building looks onto a monorail, where goods can be loaded or unloaded directly for transit to or from the downport using a grav crane that moves along the platform. An elevated walkway runs along the outside of the building, overlooking the yard and front. This is accessed by ladders from inside. A small office and break room is located near the elevator. The office and attached record room have details of all the legitimate traffic handled by UE over the last decade or so. A competitor may well pay for this information.
 
-The warehouse will have a few guards, but mostly operates by stealth, so they will be kept low-key. See the NPC appendix for guard details. If there is no alarm raised, most guards will either be handling shipping, but with the drop in trading, more likely to be sitting around in the common area in the office.
+The warehouse will have a few guards/stevedores, but mostly operates by stealth, so they will be kept low-key. There are about 8 or 10 guards per shift, with a better armed (body pistol or similar) manager who spends most of their time in the office. See the NPC appendix for guard details. If there is no alarm raised, most guards will either be handling shipping, but with the sudden drop in trade volume, are more likely to be sitting around in the common area in the office. Every fifteen minutes or so, one of them does a loop along the external walkway, coming up the ladders from inside. Someone does a similar walk to check out the loading platform, also on a roughly 15 minute interval (although not necessarily at the same time). During the night cycle, this is closer to once an hour or so.
 
 The main goal of the Travellers should be to get Chang out unhurt (because that is what they are being paid for, after all). Should he be in a position to make requests, he will insist that Britt come with him.
 
@@ -278,3 +278,7 @@ Port Official - **Agigaam Adumsha**, 53 years old, 566788, Customs Official-2
   - She contracts UE to import extra goods without too much paperwork, although usually hands-off and through a cut-out, hence the attempt to extort her - the guards are not aware that she is a regular client.
   - She has been using some inside knowledge from Haoyung about what Oberlindes is planning to ship in, allowing her to make similar orders. Smuggling them in allows her to undercut Oberlindes' prices.
   - There are some hidden records of all of the above at Haoyung's apartment, as insurance for her turning on him.
+
+## Thanks
+
+Special thanks to those who cast an eye over this and provided feedback: SammyJ, Mr Mann.
