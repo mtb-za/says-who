@@ -1,5 +1,5 @@
 ---
-title: 'Pern as an RPG Setting - 1'
+title: 'Pern as an RPG Setting - 1 - Background and Society'
 slug: 'pern_setting_01'
 date: 2024-02-07
 categories: ['thoughts']
