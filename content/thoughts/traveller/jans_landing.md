@@ -22,7 +22,7 @@ The accompanying map is a rough overview of the general layout of Jan's Landing.
 
 ### Landing Area and Warehousing
 
-Larger vessels, especially bulk freighters, need to stand off and use a shuttle (available at a nominal fee, especially for regular and returning visitors) to get to the base. 
+Larger vessels, especially bulk freighters, need to stand off and use a shuttle (available at a nominal fee, especially for regular and returning visitors) to get to the base.
 21 of the 24 landing bays are 'owned' by various companies in the system under long-term leases, while the remaining three are available to whomever pays for them at a daily rate. The landing bays have a rectractable roof, but are usually not repressurised to save valuable resources. An air-filled umbilical tunnel is usually hooked up to the ship and most cargo will be moved under vacuum. These are used by smaller vessels and landing in them is relatively easy for a trained pilot.
 
 Two landing bays are connected to a shared warehouse area under pressure, usually cluttered with boxes and containers. These warehouses are filled with various supplies and other shipments to smaller outposts in the outer system. The warehouses are airlocked from the facility, and need passcodes and similar authentication to access. The lack of strict schedules means that cargoes are often left at Jan's Landing for longer than companies would like. Despite everyone's efforts, there is still some shrinkage.

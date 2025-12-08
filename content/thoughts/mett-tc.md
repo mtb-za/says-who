@@ -26,7 +26,10 @@ For RPG factions, this breaks down neatly into:
 - Time Available: what sort of time constraints on getting their thing are there?
 - Civilian considerations: how much do they care about non-faction members in getting their goal?
 
-I would suggest that if you are unable to answer these questions for a given faction, that they faction is undercooked. This is obviously designed for modern-day environments and to deal with modern opposition. As such, it is most natural for modern or science fiction factions, but it can work equally well for more fantasy-focused factions, as the worked example below shows.
+I would suggest that if you are unable to answer these questions for a given faction, that your faction is undercooked.
+Since the framework is designed for modern-day armies and to deal with their modern opposition in the real world, it is perhaps most natural for modern or science fiction factions.
+Notwithstanding that origin, it can work equally well for more fantasy-focused factions, since the questions to answer are pretty generalised.
+In order to demonstrate this, the worked example below is fantasy-themed.
 
 ## Worked Example
 
