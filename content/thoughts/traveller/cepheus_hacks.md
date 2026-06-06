@@ -62,7 +62,7 @@ Unsurprisingly, there are a great number of SF hacks of the base SRD.
 - Alpha Cephei -->
 
 | Name | DriveThruRPG Link | Publisher | Year Published | Comments |
-|---|---|---|---|
+|---|---|---|---|---|
 | Cepheus Engine RPG | https://www.drivethrurpg.com/en/product/237247/cepheus-engine-rpg | Moon Toad | | This is a more nicely laid version of the rules in the SRD, with art and such things. A complete ruleset that is well-suited for being a replacement for Traveller-the-Rules. It does not detail a setting and there are no aliens. A good baseline, with minimal changes to Mongoose 1e basic rules. |
 | Cepheus Deluxe | https://www.drivethrurpg.com/en/product/370075/cepheus-deluxe | Stellagama | 2021 | Does not have random chargen, but that is available in a supplement. Original version of CD Enhanced Edition, artwork is black and white, EE has colour and has more in it. Otherwise a slightly slimmer take on the CE SRD, covering much of the same topics but usually in a slightly less complicated way. |
 | Cepheus Deluxe Enhanced Edition | https://www.drivethrurpg.com/en/product/415159/cepheus-deluxe-enhanced-edition | Stellagama | 2022 | Full colour update to CD, with some clarifications to the rules. Covers similar ground otherwise. |
