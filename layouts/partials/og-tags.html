@@ -1,0 +1,29 @@
+{{/* layouts/partials/og-tags.html */}}
+{{ $ogTitle := .Title | default .Site.Title }}
+{{ $ogDesc := .Description | default .Site.Params.description }}
+{{ $ogUrl := .Permalink }}
+{{ $ogImage := "" }}
+{{ if .Params.images }}
+  {{ $ogImage = index .Params.images 0 | absURL }}
+{{ else if .Site.Params.images }}
+  {{ $ogImage = index .Site.Params.images 0 | absURL }}
+{{ end }}
+
+<meta property="og:title" content="{{ $ogTitle | htmlEscape }}" />
+<meta property="og:description" content="{{ $ogDesc | htmlEscape }}" />
+<meta property="og:url" content="{{ $ogUrl }}" />
+{{ with $ogImage }}
+<meta property="og:image" content="{{ . }}" />
+{{ end }}
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:site_name" content="{{ .Site.Title | htmlEscape }}" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ $ogTitle | htmlEscape }}" />
+<meta name="twitter:description" content="{{ $ogDesc | htmlEscape }}" />
+{{ with $ogImage }}
+<meta name="twitter:image" content="{{ . }}" />
+{{ end }}
+{{ with .Site.Params.twitterHandle }}
+<meta name="twitter:site" content="{{ . }}" />
+{{ end }}

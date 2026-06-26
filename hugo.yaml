@@ -23,3 +23,5 @@ params:
   mainSections:
   - thoughts
   - session_reports
+  sidebar: true
+  logoPath: "img/logo_c.png"

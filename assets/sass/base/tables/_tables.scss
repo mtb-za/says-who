@@ -1,0 +1,36 @@
+// Tables
+//
+// The `<table>` element displays tabular data in rows, columns, and cells.
+
+table {
+  // Add vertical rhythm margins.
+  @include margin-block(0 1);
+  // Remove default spacing between table cells.
+  border-collapse: collapse;
+  // Prevent cramped-looking tables
+  width: 100%;
+}
+
+tr:nth-child(odd) {
+    // background-color: #4e0166;
+    background-color: $grey-extra-light;
+}
+
+td,
+th {
+  // Remove most spacing between table cells.
+  padding: 1;
+  // Align content to top of cells.
+  vertical-align: text-middle;
+}
+
+th {
+  // Align content to bottom of headers.
+  vertical-align: bottom;
+}
+
+caption,
+th {
+  // Align all text the same.
+  text-align: start;
+}

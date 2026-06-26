@@ -7,7 +7,9 @@
 {{ if .Params.tags }}{{ partial "tags.html" . }}{{ end -}}
 </header>
 
-{{ .Content }}
+{{ $content := .Content }}
+{{ $content = replaceRE `<a href="(https?://.+)">` `<a href="$1" target="_blank">` $content | safeHTML }}
+{{ $content | safeHTML }}
 
 {{ if .PrevInSection }}
 <a href="{{.PrevInSection.Permalink}}">Previous Post</a>
