@@ -6,12 +6,18 @@ categories: ['thoughts']
 tags: ['ttrpg', 'design', "traveller"]
 ---
 
+Much of this is adapted from the ATV rules in _Across the Bright Face_.
+
 ## Basics
 
 Mechs are a type of vehicle and use the Vehicle (Mech) cascade skill.
 While a variety of designs exist, most are about 10 tons in weight and about 4-5m tall.
 They can travel at about 80km/hr consistently, with only extremely rough terrain slowing them down.
 They normally have only a single pilot.
+
+Mechs are generally a little complicated and finnicky.
+They require maintenance once a week or after any combat in which a hit is taken.
+Maintenance is a mechanics throw; failing (or not doing maintenance) penalises any DMs by 1 per missed maintenance window.
 
 ## Power
 
