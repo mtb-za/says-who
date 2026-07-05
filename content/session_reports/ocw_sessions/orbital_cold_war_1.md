@@ -6,12 +6,14 @@ categories: ['session']
 tags: ['orbital_cold_war', 'freefallers', 'ttrpg', 'session_report']
 ---
 
-Recently Sammy, of Scattered Amusement Machine has been running an Orbital Cold War campaign, using an early version of [Freefallers](https://glitched-tabletop.itch.io/freefallers), but complete enough.
+
+Recently Sammy, of [Scattered Amusement Machine/TrashedTabletop](https://staggeredamusements.wordpress.com/) fame, has been running an Orbital Cold War campaign, using an early but complete enough version of [Freefallers](https://glitched-tabletop.itch.io/freefallers).
 I missed the first session, but joined the second one.
 My PC is Jean-Jacques Desjardins, a ~~Canadian~~Quebecois mission specialist at Unity Base.
-Chargen was pretty painless: assign some attributes, assign some skills based on the role (mission specialist, security officer, lunar scientist, that sort of thing).
+Chargen was pretty painless: assign some attributes, assign some skills based on the role (mission specialist, security officer, lunar scientist, that sort of thing), choose a trouble and a couple of things like that.
+No hassles here if you are comfortable with RPGs in general.
 
-## Day's Recap:
+## Mission Day's Recap:
 
 At the morning briefing a few things are highlighted as needing attention.
 The PCs all choose something to work on, and Jean-Jacques finds himself paired up with Alejandro Sanchez to follow-up on anomalous temperature spikes in the SNAP: Unity Base's nuclear reactor.
@@ -20,18 +22,18 @@ On inspecting it, we find that there are three points that need a look, all on d
 The conclusion is that we need to take the reactor down for a shift to inspect those loops and see if there is something wrong with those.
 That might affect some of the science programmes, so we do a less invasive fix for now and then go to inform the science leads that we _might_ need to reduce power for a few hours.
 
-Jean-Jacques talks to Fritz, one of the Soviet scientists.
+- Jean-Jacques talks to Fritz, one of the Soviet scientists.
   He has no issue, but asks a bunch of questions about it, since he has done some theoretical work on these reactors.
   Jean-Jacques provides the answers: from past experience, Fritz will come back with something nuts that has an even chance of being completely unhinged and useless or being some brilliant left-field solution.
   We can live with that, so we will see what he comes up with.
-Sanchez goes to talk to Bryan Floyd, the US science lead.
+- Sanchez goes to talk to Bryan Floyd, the US science lead.
   The shutdown is going to throw his schedule out for the week, but he will work around it, so good enough.
-Both of us meet up to talk to the other Soviet science lead, who is also 2IC for Unity Base: Anastasia Volkova
+- Both of us meet up to talk to the other Soviet science lead, who is also 2IC for Unity Base: Anastasia Volkova
   She keeps irregular hours, but is sleeping on her desk, with a Soviet computer doing some long-running process.
   We supply her a battery and go deal with the cooling loops.
 
-One of the anomalies seems to be due to insolation, so we extend the sunshields to include that.
-The other two loops have some sort of sediment in them, which is _weird_.
+One of the anomalies seems to be due to excess insolation, so we extend the sunshields to include that.
+The other two loops have some sort of sediment in them, which is _weird_: the system should be closed.
 We bag a sample for analysis and then lower the operating temperature slightly, reducing the power output by a small amount.
 This is not enough to be a problem, but we should probably get to the bottom of this.
 
@@ -59,9 +61,11 @@ They agree that the base commander (an American) will need to be told, but other
 
 Thus endeth Jean-Jacques Desjardins' day.
 
+The other PCs did their own things: vacc suit maintenance, drill rig set-up, negotiation re: allowable input devices for the Tetris tournament, sleeping off a strained shoulder, making a Cuban sandwich with smuggled pork, possibly plotting to blow up the base at the behest of the US Air Force, the usual.
+
 ## Thoughts and Notes:
 
-The core procedural loop of this, being focused on the technical problems is quite strong:
+The core procedural loop of this focused on the technical problems is quite strong:
 - A morning meeting where the current problems are outlined and the PCs can choose what they will work on
 - Each pair of PCs goes off to handle their thing (this is mostly a time limitation, more than anything else)
 - Leisure period which is a little more freeform and will probably lead to interpersonal drama and advancing background problems.
@@ -69,11 +73,11 @@ The core procedural loop of this, being focused on the technical problems is qui
 (This fairly rigid structure seems pretty solid for potential play-by-post games, taking a shift per day or something, incidentally.)
 
 The technical problems are multi-step and potentially complex.
-Other PCs put together a diamond drill rig (which had a very poor set of instructions) and did some maintenance on the space suits (which are in two sets, Soviet and NASA/ESA, and only limited spares are available).
-The drill rig is ready for testing, but it took a shift to assemble it all and the testing still needs to be done to ensure no mistakes were made.
+Other PCs put together a diamond drill rig (which had a very poor set of instructions) and did some maintenance on the space suits (which are in two sets, Soviet and NASA/ESA, and only limited non-interchangeable spares are available).
+The drill rig is now ready, but it took a shift to assemble it all and the testing still needs to be done to ensure no mistakes were made.
 The suits have some issues, but none of them are _critical_ (yet), so that maintenance is also mostly done, especially if a solution for the Soviet gloves and the strange wear patterns on the NASA/ESA suits can be found.
 The temperature of the SNAP reactor is hopefully under control for now, but we need to figure out what the cause of the sedimentation is.
-We also have other issues: Science 4 has a strange hissing noise[^1], the mobile excavator's arm is malfunctioning, some solar panels need replacement, there is a satellite that crashed nearby that needs investigation.
+We also have other issues that were not handled today: Science 4 has a strange hissing noise[^1], the mobile excavator's arm is malfunctioning, some solar panels need replacement, there is a satellite that crashed nearby that needs investigation.
 
 The interesting part of this comes from the fact that there is _always_ something that will need doing, and not all of it is immediately urgent, but it might become so, and in the context of a lunar base something becoming immediately urgent is probably a _really_ bad thing:
 if the temperature anomalies in the SNAP reactor are not resolved, then who knows what the result will be? if the space suits become unusable, then we can not do any outside work. If the hissing in Science 4 is not addressed will we all be eaten by snakes?
@@ -101,6 +105,10 @@ Likewise, the SNAP is now giving a little less power, but should be running at m
 We for sure want to get to the bottom of the issue, but for now we might be able to focus on the snake infestation in Science 4 instead, since the reactor is not critical (well, it is, because it is a working nuclear reactor, but the point stands).
 So is the best use of someone's time to analyse the sediments from the coolant loops, or to get a grabby claw and deal with the snakes?
 I guess we will find out that we got it wrong when one of the two problems explodes (either into nuclear fire or a ball of, presumably flash-frozen, snakes).
+One consideration is what NPCs are doing.
+In theory, some problems should be solved, or partially solved, by the NPCs doing similar things to the PCs.
+So maybe one of them will do the sediment analysis?
+We should be so lucky....
 
 A quick note: problem-solving like this requires a referee to have a solid idea of what might be done and what leads to what: other players, with the same problem with the reactor as myself and Sanchez's player set up sunshields, which only helped partially to control the temperature.
 Much like any investigation, there needs to be enough to dig into by the players.
