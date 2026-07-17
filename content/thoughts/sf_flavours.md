@@ -1,5 +1,5 @@
 ---
-date: 2026-07-17T00:58
+date: 2026-07-17T00-58-00
 publishdate: 2026-07-17
 title: Flavours of Science Fiction
 slug: flavours_of_science_fiction
@@ -16,16 +16,25 @@ So we will talk in generalities about some options for some of the big questions
 If one wants a whole book, with worked (instead of illustrative) examples, check out _GURPS Space_.
 
 To jump to pontifications about a specific topic, click any of the following links:
+
 - [Aliens](#aliens)
+  - [Mutants](#mutants)
 - [Travel](#travel)
 - [Communications](#communications)
 - [Ships](#ships)
+  - [Scale](#scale)
+  - [Ship Combat](#ship-combat)
 - [Biotech and Cybernetics](#biotech-and-cybernetics)
+  - [Fast Healing](#fast-healing)
+  - [Life Extension Treatment](#life-extension-treatment)
+  - [Cybernetics](#cybernetics)
+- [Conclusions](#conclusions)
 
 ## Aliens
 
 Presence of aliens is a big question for a setting.
 Are you going for:
+
 - The Star Wars Cantina with a bunch of weird aliens, all different?
 - John Carter with a couple of well-defined aliens?
 - The Thing or War of the Worlds with one (type of) alien that is mostly a mystery that is never fully explained?
@@ -59,12 +68,14 @@ Player-side mutations are possibly discrete abilities, but if there are "standar
 ## Travel
 
 The ease and speed of travel can be an important pacing and setting element.
+
 - IRL, we have space travel, but it is slow and extremely limited, taking potentially months or years to move between planets. Interstellar travel seems infeasible.
 - The Expanse has fairly free travel within the solar system, but still considers time to be an important restriction.
 - Traveller has all travel between systems taking about a week, with travel in a system usually being hours or a day or two.
 - Star Wars just ignores travel time and in many respects even distance, although some of the novels and games put a little more thought into it.
 
 This largely impacts two main areas of the setting: scope and speed.
+
 - **Scope** is fairly self-evident:
   - Star Wars has an entire galaxy to play with, because travel is so abstracted
   - Traveller has a large interstellar empire covering a few hundred parsecs along each edge of the map
@@ -112,6 +123,7 @@ However, with slow communications these system networks will not necessarily be 
 
 Of course, one need not actually have viable spaceships for a science fiction story, but many will have them.
 The ships in use (or not) can truly define a spacefaring setting:
+
 - Star Wars (and numerous settings, vide: Battlestar Galactica, Wing Commander as good examples) has them work like WW2 naval combat: large slow ships and small nimbler fighters
 - Firefly and early Traveller (amongst others) has them acting more like small seagoing vessels, tramp traders and such.
 - The Expanse has different sized ships but they are not as clearly-cut as "carriers", "battleships" and "fighters".
@@ -124,6 +136,7 @@ Are they the means of communication, but not combat?
 Are they primarily military in nature (or at least all armed to _some_ extent)?
 
 There are a few roles a ship in a SF RPG can play:
+
 - A home base for the PCs (or for others):
   Classic examples are things like Battlestar Galactica, Star Trek, Firefly
 - A threat to various places and people:
@@ -170,12 +183,14 @@ This covers a wide range of things, so this is even more general than most of th
 A really useful thing that these can do though is allowing characters offset bad things from character generation or consequences of their actions.
 
 In all cases discussed in this section, there are two common axes:
+
 - Ubiquitous and cheap vs rare and expensive
 - Weak vs powerful
 
 ### Fast Healing
 One of the common things in SF is advanced medical abilities.
 This can cover a range of things but some examples of how it can work includes:
+
 - Stars Wars has bacta tanks for handling serious injuries
 - the Vorkosigan books have cloning of body parts that are used in surgery
 - Various drugs may exist to speed up metabolism or similar things

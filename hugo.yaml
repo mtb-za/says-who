@@ -1,5 +1,5 @@
 baseURL: https://mtb-za.github.io/says-who/
-languageCode: en-us
+locale: en-ca
 title: "Says Who"
 theme: zen
 canonifyURLs: true
@@ -25,3 +25,4 @@ params:
   - session_reports
   sidebar: true
   logoPath: "img/logo_c.png"
+  timeZone: "Canada/Eastern"

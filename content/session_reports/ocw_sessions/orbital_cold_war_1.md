@@ -1,5 +1,5 @@
 ---
-date: 2026-07-05T03:34-05:00
+date: 2026-07-05-03-34-05
 publishdate: 2026-07-05
 title: Freefalling Orbital Cold War - Session 1
 categories: ['session']
