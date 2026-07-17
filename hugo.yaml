@@ -1,5 +1,6 @@
 baseURL: https://mtb-za.github.io/says-who/
 locale: en-ca
+defaultContentLanguage: "en"
 title: "Says Who"
 theme: zen
 canonifyURLs: true
