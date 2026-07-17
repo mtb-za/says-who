@@ -1,5 +1,5 @@
 ---
-date: 2026-07-17T00-58-00
+date: 2026-07-17T00:58:00
 publishdate: 2026-07-17
 title: Flavours of Science Fiction
 slug: flavours_of_science_fiction
