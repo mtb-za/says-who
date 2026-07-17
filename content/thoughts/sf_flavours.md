@@ -61,9 +61,38 @@ The amount of effort required is going to depend a little on where on the spectr
 More aliens are not always more better, because you can end up merely flattening them out, but having more means that you (possibly) want some rules for how each one works:
 if an alien has an electric attack or five arms or similar, some thought as to how to deal with that should be given.
 
+### Androids and Robots
+
+Using these is really a means of making social commentary about the ethical or otherwise use of a specific class of people as labour.
+That said, sentient robots and androids are common in many settings, but in terms of rules, they are just aliens: if they are non-player-facing, then use whatever statblocks make sense, if they are a player option then they probably have some abilities related to being stronger and tougher than average humans.
+They likely have some hindrances in terms of needing to be subservient to humans or some other sort of brakes on them.
+
 ### Mutants
+
 These are essentially just aliens, and the same sort of things apply: non-player-facing ones can just be redescribed from the normal monster books.
 Player-side mutations are possibly discrete abilities, but if there are "standard" mutations then they could just be treated as species/races/ancestry, as your ruleset dictates.
+
+### Artificial Minds/AIs
+
+These are also a staple of many settings and can be treated a few ways but can often be treated as an alien.
+If one wants to have the sort of over-arching controlling type of AI, that is often more of a background element that does not need specific rules but is something that is a background setting element.
+There are of course a few different ways that this might work out, but most examples are on the dystopian end, with two common variations:
+
+- The AI is able to do its task, but that task is mis-interpreted and the AI decides that (some? all?) humans are a threat to be dealt with.
+- The AI exists but is unable to effectively oversee everything.
+  This will usually mean that the technological government is somehow hampered or has gaps in control or similar places for characters to exploit.
+
+In many cases, these are just the local government: interactions will be with robots or drones, or various people employed by the AI.
+Having a large-scale AI in the background often comes down to how a government is themed: routine paperwork can just be done via the 'Net by talking to one of the AI's nodes instead of a distinct person.
+This might just look like a very tightly integrated bureaucracy or similar.
+
+There are relatively few examples of powerful benevolent AI entities, largely because they fall into the "why is this powerful entity not just solving their own problems" quite often.
+This means that they need to be constrained or weakened in some way to provide reasons for the characters to be doing things instead.
+They can also be placed in opposition to equally or more powerful less benevolent AIs, which ends up looking a lot like a feuding pantheon of gods (vide: *Horizon: Zero Dawn*'s conflict between Hades and Gaia for a very unsubtle example).
+Iain M. Banks' Culture has some of the best examples with the Minds, although they do turn up elsewhere.
+
+Player-side AIs are often just tools that handle things like translation, research, and targeting (providing bonuses to doing those things).
+Players actually _being_ AIs loops back to them being an alien of some kind, depending on the body that the AI is using and what that behaves like.
 
 ## Travel
 
@@ -236,6 +265,8 @@ This does not address themes, or rules, or societal customs in a setting, but by
 Should anyone use this framework thing to make a setting, please reach out on discord and let me know.
 I will probably be doing exactly that for the hell of it anyway, and if I do I will post the results here.
 Equally, should you have a different sort of breakdown of SF elements and how you use it, please post it up!
+
+Edit [2026-07-17 11:55]: Added some thoughts on androids and AIs.
 
 <!-- footnotes -->
 [^the_sting]: The movie _The Sting_ is worth watching for any players dealing with this sort of setting.
