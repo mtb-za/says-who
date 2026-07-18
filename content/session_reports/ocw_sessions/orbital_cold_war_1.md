@@ -22,7 +22,7 @@ On inspecting it, we find that there are three points that need a look, all on d
 The conclusion is that we need to take the reactor down for a shift to inspect those loops and see if there is something wrong with those.
 That might affect some of the science programmes, so we do a less invasive fix for now and then go to inform the science leads that we _might_ need to reduce power for a few hours.
 
-- Jean-Jacques talks to Fritz, one of the Soviet scientists.
+- Jean-Jacques talks to Reinhold Fritz, one of the western scientists.
   He has no issue, but asks a bunch of questions about it, since he has done some theoretical work on these reactors.
   Jean-Jacques provides the answers: from past experience, Fritz will come back with something nuts that has an even chance of being completely unhinged and useless or being some brilliant left-field solution.
   We can live with that, so we will see what he comes up with.

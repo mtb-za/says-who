@@ -6,8 +6,6 @@ categories: ['session']
 tags: ['orbital_cold_war', 'freefallers', 'ttrpg', 'session_report']
 ---
 
-## Observations
-
 Fairly straightforward session.
 The troubles that keep building triggered a few times:
 We needed to deal with an intensification of the Cold War (the USAF and some Soviet soldiers arguing over a weapon test in no-man's land between bases), we had an issue with one of the vehicles, and a personal Trouble.
