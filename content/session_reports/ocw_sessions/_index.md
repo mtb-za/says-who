@@ -10,3 +10,5 @@ A [technical SF game](https://staggeredamusements.wordpress.com/2022/04/29/houst
 The number of session reports are off-by-one, since I only started playing in session 2.
 The intended runtime is approximately 10 or so sessions as the Cold War heats up and the technical debt grows.
 
+![A hillshaded map of the Moon showing craters, mare, and base locations](/img/session_reports/ocw_map.png "The Neighbourhood")
+
