@@ -101,5 +101,52 @@ Leaning in this direction for a Traveller setting is one that relies more heavil
 This gives a large amount of adventure fuel, where a given NPC can push things in a particular direction because they are obligated to do so by their own oaths.
 At the same time, the PCs will likely have people beholden to them in various ways.
 
-[^fiefs_and_vassals]: _[Fiefs And Vassals: The Medieval Evidence Reinterpreted](https://academic.oup.com/book/47420)_ by Susan Reynolds is one of the more prominent works discussing this.
+This patchwork of vassals is going to lead to less standardised structures across the board in favour of the organisation that a given leader is able to build up and maintain.
+Armies will vary in size, they will be non-uniformly equipped, and they will be loyal to their leader more than the goal.
+The biggest effect here is that even a large army is going to be made up of various commanders and their subordinates who are going to listen to their leader, not necessarily whomever is in charge of the whole army.
+This means that said leader will need to negotiate to ensure that their followers are kept happy.
+While the above is talking about large armies, the same effect is replicated all the way down the chain: because leadership is personal, that means that those personalities need to be kept placated.
+The most common way to do this is by providing gifts to your vassals.
+In many cases these gifts are control over important things (positions in court) and places (such as strategic castles).
+The giving (and removing) of these gifts is an important part of the power play in a feudal society at all levels.
+Where a king might be awarding the entire western march to a trusted vassal, that vassal may give a specific castle to a vassal, who will appoint someone that they trust as castellan to run the castle on a day-to-day basis.
 
+A big part of the game then becomes what your liege is offering for you to do a particular thing.
+While you might not be able to actually refuse, you can certainly hold out for a bigger gift, within limits.
+This management means that campaigns of any kind can fall apart rapidly if gains are not made and not handed out "fairly".
+A good example is by looking at the Crusader armies in the Levant: more than one siege had one or other commander take their troops and go do something else because there was no agreement about who would be in charge after the city was captured[^crusade_note].
+
+The relatively small limits of control mean that standing armies of significant size just do not exist.
+A given noble will have a relatively small force of permanent retainers, who are also trusted with various other things.
+This force is often the most reliable fighting force as well, since they can actually spend the time training and similar, not running an estate or similar.
+They are also useful people to know, often having quite direct access to their leader, which means that getting them on your side can help influence said leader.
+
+Another blow against standardisation is that each combatant is expected to provide their own gear, often with certain minimums.
+This will look different in different places, depending on requirements.
+As an example, a polity will need spaceships, which are big and complicated enough that a particular region might be required to maintain and crew a certain number of ships[^viking_note].
+A smaller location, unable to maintain a vessel may be required to provide a certain number of people with a certain level of equipment.
+Failing to do so may require payment of a fine to hire or equipment the equivalent.
+Note as well that these are [not a "peasant army"](https://lonely-star.bearblog.dev/no-more-peasant-armies/) either, even if they are not all noble-born: they will be practiced fighters who are looking to use their capacity for violence as a leg-up in society, because if they get noticed by the right people, they will be getting those gifts of important positions and valuable real estate.
+
+For those readers who know the OTU reasonably well, this might all sounds somewhat familiar, because this is quite similar to how the Vargr are described[^vargr]!
+So, if the usual backdrop of the Third Imperium is decidedly _not_ feudal, there is still a polity next door that pretty much _is_: the Vargr Expanse.
+
+[^fiefs_and_vassals]: _[Fiefs And Vassals: The Medieval Evidence Reinterpreted](https://academic.oup.com/book/47420)_ by Susan Reynolds is one of the more prominent works discussing this.
+[^crusade_note]: This squabbling over the prizes that were yet to be won led, in part, to more than one crusade in the Holy Land failing to achieve very much of note.
+[^viking_note]: The captain may still be chosen by their liege, and then they are responsible for raising a crew, who had certain weapons that they were required to bring.
+  In a Traveller-ish setting, that might mean that all crew are required to bring a cutlass, a vacc suit and a rifle or carbine, getting fined if they do not bring it.
+  See [this summary](https://www.vikingeskibsmuseet.dk/en/professions/education/knowledge-of-sailing/the-ships-crew/crewmembers-in-the-viking-age) from the Viking Ship Museum for details.
+[^vargr]: From the CT Alien Module focusing on the Vargr: "Since there is little respect given to formal authority figures who do not derive their authority from a high charisma, respect decreases rapidly as authority becomes more remote. It can basically be said that Vargr attach little importance to a title, office, or position, and a great deal of importance to the essential character of the individual occupying that position. A distant leader, no matter how personally able or charismatic, cannot exercise his charisma to win others to his standard, and thus is considered less worthy of respect than someone on the spot who has the charisma to influence his neighbors directly."
+
+## Conclusions
+
+There is more that can be said about how a feudal society might work in SPAAACE, but it would certainly not look like the common conception of Traveller's setting (or rather, the Third Imperium within that setting).
+A proper conversion of a medieaval feudal system would make for a compelling backdrop: because power is personal those persons with power need to be fleshed out and engaged with in order to get ahead.
+Simply having money does not confer direct status or power and is likely to just make one a target as this is an independent power base not part of the actual structure.
+The above discussion also does not address the incredibly deep roots and importance of the Church to feudal society; translating that into a SF setting would need some additional work, but is crucial.
+The church was, to a large extent, the source of legitimacy of various lords (while also being a thorn in their sides), as well as what passes for professional bureaucracy in Europe[^clerk] (as a virtue of being more highly literate and numerate than the average), and so should not be ignored.
+
+This is all to say that even within what the core Classic Traveller gives us as background, there is room to be much more creative through greater accuracy.
+I would still contend though, that Traveller in general is firmly Age of Sail, that is to say Early Modern to Post-Napoleonic: absolutely not feudal.
+
+[^clerk]: "Clerk" as in the bureacratic position is derived from "cleric", after all.
