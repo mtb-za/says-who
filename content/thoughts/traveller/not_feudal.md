@@ -1,7 +1,7 @@
 ---
 title: 'Traveller is not Feudal'
 slug: 'traveller_not_feudal'
-date: 2026-07-22T13:18:00
+date: 2026-07-24T14:18:00
 categories: ['thoughts']
 tags: ['traveller', 'ttrpg', 'pontificating', 'history']
 ---
