@@ -1,5 +1,5 @@
 ---
-title: 'Traveller is not Feudal'
+title: 'Traveller is not a Feudal Setting'
 slug: 'traveller_not_feudal'
 date: 2026-07-24T14:18:00
 categories: ['thoughts']
@@ -148,5 +148,7 @@ The church was, to a large extent, the source of legitimacy of various lords (wh
 
 This is all to say that even within what the core Classic Traveller gives us as background, there is room to be much more creative through greater accuracy.
 I would still contend though, that Traveller in general is firmly Age of Sail, that is to say Early Modern to Post-Napoleonic: absolutely not feudal.
+
+> Thanks also to Havoc of [Lonely Star](https://lonely-star.bearblog.dev/) for proof-reading an early draft and giving some excellent suggestions from our mutual interest in mediaevalism.
 
 [^clerk]: "Clerk" as in the bureacratic position is derived from "cleric", after all.
