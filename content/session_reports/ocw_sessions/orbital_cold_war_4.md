@@ -132,7 +132,7 @@ Rimantas Stankevičius
 ## Underground Base Construction - Teresa Wagner
 
 Long-term plan is to have underground section for additional shielding from cosmic rays and things and moves are finally being made to actually get this done.
-Need to pick the specific site within the Kepler Crater and do some testing and blasting of those sites.
+Need to pick the specific site within the Plato Crater and do some testing and blasting of those sites.
 Still needs outside work, but within safety distance, so it will "probably be definitely fine" in the case of something going wrong.
 
 Taking MOLAB, none are ideal: one has life support issue, one has bearing issue that has not been replaced.
@@ -158,7 +158,7 @@ Of the sites:
 - The wall itself is easier to dig, but the geology is much more varied, so construction is more risky and complicated.
   This is the best option if safety can be overcome, but is also further from the base.
 
-![A hillshaded map of Kepler Crater on the Moon summarising the above potential locations](/img/session_reports/ocw_ug_base_locations.png "Underground base options")
+![A hillshaded map of Plato Crater on the Moon summarising the above potential locations](/img/session_reports/ocw_ug_base_locations.png "Underground base options")
 
 Teresa is leaning towards the middle option.
 

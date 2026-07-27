@@ -4,7 +4,7 @@ date: 2026-07-05
 publishdate: 2026-07-05
 ---
 
-Welcome to Unity Base: a shining beacon of NATO-Warsaw Pact cooperation in lunar relations.
+Welcome to Unity Base: a shining beacon of NATO-Warsaw Pact cooperation in lunar relations in the Plato Crater.
 
 A [technical SF game](https://staggeredamusements.wordpress.com/2022/04/29/houston-we-have-a-problem-running-technical-sci-fi-rpgs/) run by SammyJ using a homebrewed ruleset named Freefallers.
 The number of session reports are off-by-one, since I only started playing in session 2.
