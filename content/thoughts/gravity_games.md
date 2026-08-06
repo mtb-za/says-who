@@ -140,3 +140,6 @@ Happy Secret Santa-in-July to the Dusk Witch (again, somehow) who asked for "som
 No trains this time, but if it is third time lucky, I promise to really try and squeeze one in....
 
 Hopefully any other readers agree that they are worth including in your own games, whether as background news and flavour or as something for PCs to be involved in: transporting teams, speculating on results, &c.
+
+Also, folks should look into the much more worked out [Zero-G Cage Match Rules for Classic Traveller](https://idraluna-archives.bearblog.dev/zero-g-cage-match-rules-for-classic-traveller/) by Idraluna.
+These rules can be adapted for Open Gates and Curveball fairly easily, although over-all goals of each game is a little different.
