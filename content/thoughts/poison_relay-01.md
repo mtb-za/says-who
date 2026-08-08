@@ -37,3 +37,5 @@ Tagging Herr Spuk to poison Portulacaria Finis.
 ## The Poison Relay Index
 
 1. This post
+2. [Le Poisson](https://againstthecultofthecommodity.bearblog.dev/le-poisson-poison-relay-02/) by Spuk
+3. [Unhallow](https://mtas.bearblog.dev/unhallow-poison-relay-3/) by Mightier Than A Sword
