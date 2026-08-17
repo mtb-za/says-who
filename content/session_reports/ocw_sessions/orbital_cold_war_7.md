@@ -65,7 +65,12 @@ Focuses on the mechanical and electronic supplies - will tackle the explosives a
       - "The earth is haunted. By people who hate me, specifically. And the shipping industry."
     - Would also like a tape of the new _Back to the Future_ movie.
 
-Makes up a list of satirical 
+Makes up a list of satirical requests to Houston as a means of venting some frustration:
+- White picket fence and a pretty lawn
+- Golf ball tethers (to not have to walk so far)
+- More breathable atmosphere
+- Better sleeping pills for Volkova
+- Good news from home
 
 ## Backup battery monitoring system
 
